@@ -1,0 +1,26 @@
+.searchbar{
+background-color: #0066cc;
+height: 50px;
+align-items: center;
+text-align: center;
+padding-top: 20px;
+border-radius: 5px;
+}
+.button{
+    background-color: #0066cc;
+    border: none;
+    cursor: pointer;
+}
+.button svg{
+    width: 11px;
+    height: 11px;
+    fill: white;
+}
+
+.input{
+    width: 230px;
+    color: #2F4F4F;
+    border:none;
+    height: 17px;
+    border-radius: 5px;
+}
